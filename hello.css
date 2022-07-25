@@ -1,0 +1,17 @@
+body {
+  background-color: deeppink;
+}
+
+#umm{
+  border-color: lightsalmon;
+  color: mintcream;
+  font-family: monospace;
+  font-size: x-large;
+}
+
+.class{
+  background-color: mintcream;
+  color: deeppink;
+}
+
+.button1 {background-color: goldenrod;}
